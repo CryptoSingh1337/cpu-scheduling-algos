@@ -41,7 +41,7 @@ int main() {
 	a = t;
 	while (t--) {
 		printf("For Input %d:\n", a - t);
-		// first_come_first_serve();
+		first_come_first_serve();
 		printf("\n");
 	}
 	return 0;
